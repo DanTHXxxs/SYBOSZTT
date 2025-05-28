@@ -1,4 +1,0 @@
-PyNaCl
-pytz
-flask
-discord.py
